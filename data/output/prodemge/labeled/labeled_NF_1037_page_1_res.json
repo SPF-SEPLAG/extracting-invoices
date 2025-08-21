@@ -1,0 +1,842 @@
+[
+    {
+        "text": "18/02/2025, 14:10",
+        "bbox": [
+            39,
+            17,
+            148,
+            27
+        ],
+        "label": 0
+    },
+    {
+        "text": ":: NFS-e - Nota Fiscal de Serviços eletrônica ::",
+        "bbox": [
+            440,
+            17,
+            718,
+            27
+        ],
+        "label": 0
+    },
+    {
+        "text": "NFS-e - NOTA FISCAL DE SERvICOS ELETRoNICA",
+        "bbox": [
+            266,
+            36,
+            742,
+            53
+        ],
+        "label": 0
+    },
+    {
+        "text": "Emitida em:",
+        "bbox": [
+            299,
+            58,
+            381,
+            69
+        ],
+        "label": 0
+    },
+    {
+        "text": "N°:2025/1037",
+        "bbox": [
+            94,
+            62,
+            281,
+            83
+        ],
+        "label": 1
+    },
+    {
+        "text": "Competencia:",
+        "bbox": [
+            552,
+            58,
+            645,
+            70
+        ],
+        "label": 0
+    },
+    {
+        "text": "Codigo de Verificação:",
+        "bbox": [
+            691,
+            58,
+            840,
+            70
+        ],
+        "label": 0
+    },
+    {
+        "text": "18/02/2025 as 08:27:01",
+        "bbox": [
+            300,
+            69,
+            491,
+            85
+        ],
+        "label": 2
+    },
+    {
+        "text": "18/02/2025",
+        "bbox": [
+            554,
+            70,
+            666,
+            84
+        ],
+        "label": 3
+    },
+    {
+        "text": "fHe9a726",
+        "bbox": [
+            691,
+            70,
+            787,
+            84
+        ],
+        "label": 0
+    },
+    {
+        "text": "COMPANHIA DE TECNOLOGIA DA INFORMACAO DO ESTADO DE MINAS GERAIS -",
+        "bbox": [
+            294,
+            91,
+            835,
+            103
+        ],
+        "label": 4
+    },
+    {
+        "text": "PRODEMGE",
+        "bbox": [
+            295,
+            104,
+            374,
+            115
+        ],
+        "label": 0
+    },
+    {
+        "text": " prodemge",
+        "bbox": [
+            137,
+            113,
+            285,
+            139
+        ],
+        "label": 0
+    },
+    {
+        "text": "CPF/CNPJ:16.636.540/0001-04",
+        "bbox": [
+            296,
+            118,
+            523,
+            128
+        ],
+        "label": 0
+    },
+    {
+        "text": "Inscrição Municipal: 0306686/001-0",
+        "bbox": [
+            618,
+            118,
+            872,
+            128
+        ],
+        "label": 0
+    },
+    {
+        "text": "RUA DA BAHIA, 2277, Savassi - Cep: 30160-019",
+        "bbox": [
+            296,
+            131,
+            584,
+            141
+        ],
+        "label": 0
+    },
+    {
+        "text": "Belo Horizonte",
+        "bbox": [
+            295,
+            142,
+            390,
+            153
+        ],
+        "label": 0
+    },
+    {
+        "text": "MG",
+        "bbox": [
+            615,
+            141,
+            640,
+            153
+        ],
+        "label": 0
+    },
+    {
+        "text": "Telefone:",
+        "bbox": [
+            295,
+            154,
+            356,
+            164
+        ],
+        "label": 0
+    },
+    {
+        "text": "Email:",
+        "bbox": [
+            615,
+            153,
+            658,
+            164
+        ],
+        "label": 0
+    },
+    {
+        "text": "Tomador do(s) Serviço(s)",
+        "bbox": [
+            101,
+            169,
+            293,
+            184
+        ],
+        "label": 0
+    },
+    {
+        "text": "CPF/CNPJ: 05.461.142/0001-70",
+        "bbox": [
+            103,
+            187,
+            329,
+            197
+        ],
+        "label": 0
+    },
+    {
+        "text": "Inscrição Municipal: 0180522/001-X",
+        "bbox": [
+            517,
+            186,
+            774,
+            198
+        ],
+        "label": 0
+    },
+    {
+        "text": "SECRETARIADEESTADODEPLANEJAMENTOEGESTAO",
+        "bbox": [
+            102,
+            200,
+            479,
+            211
+        ],
+        "label": 0
+    },
+    {
+        "text": "RODOVIA PAPA JOAO PAULOII,4001,PREDIO GERAIS - 2 ANDAR,BAIRRO SERRA VERDE - Cep: 31630-94",
+        "bbox": [
+            102,
+            215,
+            740,
+            225
+        ],
+        "label": 0
+    },
+    {
+        "text": "Belo Horizonte",
+        "bbox": [
+            101,
+            227,
+            196,
+            238
+        ],
+        "label": 0
+    },
+    {
+        "text": "MG",
+        "bbox": [
+            516,
+            227,
+            540,
+            238
+        ],
+        "label": 0
+    },
+    {
+        "text": "Telefone: (31)3915-0306",
+        "bbox": [
+            101,
+            239,
+            255,
+            251
+        ],
+        "label": 0
+    },
+    {
+        "text": "Email: Não Informado",
+        "bbox": [
+            517,
+            240,
+            654,
+            250
+        ],
+        "label": 0
+    },
+    {
+        "text": "Discriminação do(s) Serviço(s)",
+        "bbox": [
+            99,
+            255,
+            330,
+            267
+        ],
+        "label": 0
+    },
+    {
+        "text": "Lei 12.741/12: Aliq. aprox. tributos: 16,25%",
+        "bbox": [
+            101,
+            277,
+            327,
+            287
+        ],
+        "label": 0
+    },
+    {
+        "text": "Dados bancarios:",
+        "bbox": [
+            101,
+            286,
+            189,
+            295
+        ],
+        "label": 0
+    },
+    {
+        "text": "Banco Itau- 341; Ag: 3314, C/C: 01166-3",
+        "bbox": [
+            102,
+            295,
+            311,
+            304
+        ],
+        "label": 0
+    },
+    {
+        "text": "HOSPEDAGEM EM INFRAESTRUTURAVIRTUALIZADA -CONF.E",
+        "bbox": [
+            102,
+            304,
+            408,
+            313
+        ],
+        "label": 0
+    },
+    {
+        "text": "VM49808",
+        "bbox": [
+            101,
+            312,
+            150,
+            322
+        ],
+        "label": 0
+    },
+    {
+        "text": "Contrato Numero:INF-004491/02",
+        "bbox": [
+            101,
+            322,
+            273,
+            330
+        ],
+        "label": 0
+    },
+    {
+        "text": "HOSPEDAGEM EM INFRAESTRUTURAVIRTUALIZADA- BACKUP",
+        "bbox": [
+            102,
+            331,
+            408,
+            339
+        ],
+        "label": 0
+    },
+    {
+        "text": "HOSPEDAGEM DE SISTEMAS AMB.DEDICADO BAIXA PLATAFORMA",
+        "bbox": [
+            102,
+            340,
+            422,
+            348
+        ],
+        "label": 0
+    },
+    {
+        "text": "Ponto Digital (AAJ9)",
+        "bbox": [
+            101,
+            349,
+            204,
+            358
+        ],
+        "label": 0
+    },
+    {
+        "text": "Transforma Minas - Producao/Sistema Protocolo (Solucao de Tramitacao de Documentos Fisicos)",
+        "bbox": [
+            102,
+            358,
+            589,
+            366
+        ],
+        "label": 0
+    },
+    {
+        "text": "HOSPEDAGEMEMINFRAESTRUTURAVIRTUALIZADA-CONE,F",
+        "bbox": [
+            102,
+            367,
+            407,
+            374
+        ],
+        "label": 0
+    },
+    {
+        "text": "VM50528,VM50542",
+        "bbox": [
+            102,
+            375,
+            201,
+            384
+        ],
+        "label": 0
+    },
+    {
+        "text": "HOSPEDAGEM EM INFRAESTRUTURAVIRTUALIZADA- STORAGE",
+        "bbox": [
+            102,
+            384,
+            413,
+            393
+        ],
+        "label": 0
+    },
+    {
+        "text": "Código de Tributação do Municipio (cTiss)",
+        "bbox": [
+            99,
+            398,
+            372,
+            408
+        ],
+        "label": 0
+    },
+    {
+        "text": "0103-0/06-88 /  Servicos de data center",
+        "bbox": [
+            99,
+            409,
+            347,
+            419
+        ],
+        "label": 0
+    },
+    {
+        "text": "Subitem Lista de Serviços LC 116/03 / Descriçao:",
+        "bbox": [
+            99,
+            424,
+            418,
+            434
+        ],
+        "label": 0
+    },
+    {
+        "text": "1.03 / Processamento de dados e congeneres.",
+        "bbox": [
+            99,
+            434,
+            387,
+            445
+        ],
+        "label": 0
+    },
+    {
+        "text": "Cod/Municipio da incidência do IssQN:",
+        "bbox": [
+            99,
+            449,
+            349,
+            460
+        ],
+        "label": 0
+    },
+    {
+        "text": "Natureza da Operação:",
+        "bbox": [
+            503,
+            449,
+            654,
+            460
+        ],
+        "label": 0
+    },
+    {
+        "text": "3106200 /  Belo Horizonte",
+        "bbox": [
+            99,
+            460,
+            260,
+            470
+        ],
+        "label": 0
+    },
+    {
+        "text": "Tributacão no municipio",
+        "bbox": [
+            503,
+            460,
+            655,
+            470
+        ],
+        "label": 0
+    },
+    {
+        "text": "Valor dos serviços:",
+        "bbox": [
+            102,
+            482,
+            249,
+            497
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 30.376,19",
+        "bbox": [
+            373,
+            481,
+            480,
+            496
+        ],
+        "label": 5
+    },
+    {
+        "text": "Valor dos serviços:",
+        "bbox": [
+            514,
+            483,
+            658,
+            496
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 30.376,19",
+        "bbox": [
+            782,
+            481,
+            891,
+            497
+        ],
+        "label": 0
+    },
+    {
+        "text": "(-) Descontos:",
+        "bbox": [
+            102,
+            503,
+            202,
+            520
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 0,00",
+        "bbox": [
+            425,
+            504,
+            482,
+            519
+        ],
+        "label": 0
+    },
+    {
+        "text": "(-) Deduçoes:",
+        "bbox": [
+            513,
+            502,
+            601,
+            517
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 0,00",
+        "bbox": [
+            839,
+            501,
+            892,
+            517
+        ],
+        "label": 0
+    },
+    {
+        "text": "(-) Desconto Incondicionado:",
+        "bbox": [
+            514,
+            517,
+            695,
+            531
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 0,00",
+        "bbox": [
+            838,
+            516,
+            892,
+            532
+        ],
+        "label": 0
+    },
+    {
+        "text": "(-) Retençōes Federais:",
+        "bbox": [
+            102,
+            522,
+            265,
+            537
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 1.458,06",
+        "bbox": [
+            398,
+            522,
+            480,
+            534
+        ],
+        "label": 0
+    },
+    {
+        "text": "(=) Base de Calculo:",
+        "bbox": [
+            514,
+            532,
+            657,
+            547
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 30.376,19",
+        "bbox": [
+            791,
+            533,
+            891,
+            547
+        ],
+        "label": 0
+    },
+    {
+        "text": "(-) ISS Retido na Fonte:",
+        "bbox": [
+            103,
+            537,
+            264,
+            554
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 759,40",
+        "bbox": [
+            410,
+            539,
+            482,
+            552
+        ],
+        "label": 0
+    },
+    {
+        "text": "(x) Aliquota:",
+        "bbox": [
+            514,
+            550,
+            594,
+            563
+        ],
+        "label": 0
+    },
+    {
+        "text": "2,5%",
+        "bbox": [
+            857,
+            549,
+            892,
+            564
+        ],
+        "label": 0
+    },
+    {
+        "text": "Valor Liquido:",
+        "bbox": [
+            103,
+            556,
+            213,
+            571
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 28.158,73",
+        "bbox": [
+            374,
+            557,
+            479,
+            569
+        ],
+        "label": 0
+    },
+    {
+        "text": "(=)Valor do IsSS:",
+        "bbox": [
+            516,
+            567,
+            632,
+            579
+        ],
+        "label": 0
+    },
+    {
+        "text": "R$ 759,40",
+        "bbox": [
+            808,
+            566,
+            891,
+            580
+        ],
+        "label": 0
+    },
+    {
+        "text": "Retençöes Federais:",
+        "bbox": [
+            99,
+            587,
+            232,
+            599
+        ],
+        "label": 0
+    },
+    {
+        "text": "IR: R$ 1.458,06",
+        "bbox": [
+            99,
+            598,
+            199,
+            609
+        ],
+        "label": 0
+    },
+    {
+        "text": "Outras Informaçoes:",
+        "bbox": [
+            99,
+            615,
+            231,
+            625
+        ],
+        "label": 0
+    },
+    {
+        "text": "Chave de acesso no Ambiente de Dados Nacional: 31062001216636540000104250000000103725023532805560.",
+        "bbox": [
+            99,
+            625,
+            835,
+            635
+        ],
+        "label": 0
+    },
+    {
+        "text": "Prefeitura de Belo Horizonte - Secretaria Municipal de Fazenda",
+        "bbox": [
+            165,
+            647,
+            578,
+            657
+        ],
+        "label": 0
+    },
+    {
+        "text": "NOTA",
+        "bbox": [
+            851,
+            651,
+            917,
+            672
+        ],
+        "label": 0
+    },
+    {
+        "text": "Rua Espirito Santo,605 - 3° andar - Centro - CEP: 30160-919 -  Belo Horizonte MG.",
+        "bbox": [
+            165,
+            657,
+            673,
+            668
+        ],
+        "label": 0
+    },
+    {
+        "text": "Dúvidas: SIGESP",
+        "bbox": [
+            165,
+            668,
+            266,
+            678
+        ],
+        "label": 0
+    },
+    {
+        "text": "10",
+        "bbox": [
+            853,
+            667,
+            882,
+            684
+        ],
+        "label": 0
+    },
+    {
+        "text": "https://bhissdigital.pbh.gov.br/nfse/pages/exibicaoNFS-e.jsf",
+        "bbox": [
+            39,
+            971,
+            392,
+            982
+        ],
+        "label": 0
+    },
+    {
+        "text": "1/1",
+        "bbox": [
+            938,
+            970,
+            961,
+            982
+        ],
+        "label": 0
+    }
+]
