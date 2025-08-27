@@ -1,5 +1,5 @@
 {
-    "input_path": "output/prodemge/png/Nota_Fiscal_202500000000809_page_1.png",
+    "input_path": "../data/output/prodemge/png/Nota_Fiscal_202500000000809_page_1.png",
     "page_index": null,
     "model_settings": {
         "use_doc_preprocessor": true,

@@ -1,5 +1,5 @@
 {
-    "input_path": "output/prodemge/png/NF_1037_page_1.png",
+    "input_path": "../data/output/prodemge/png/NF_1037_page_1.png",
     "page_index": null,
     "model_settings": {
         "use_doc_preprocessor": true,

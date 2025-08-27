@@ -1,8 +1,11 @@
 from ocr import OCRRunner
+from preprocessing import Labeler
+from tokenizer import Tokenizer
 
 ocr_runner = OCRRunner()
+labeler = Labeler()
+tokenizer = Tokenizer()
 
-#maybe pass filepath here
-ocr_runner.pdfs_to_imgs()
-#maybe pass filepath here
-ocr_runner.img_to_json()
+#ocr_runner.pipeline()
+#labeler.process_json_files()
+print(tokenizer.tokenize_labeled())
