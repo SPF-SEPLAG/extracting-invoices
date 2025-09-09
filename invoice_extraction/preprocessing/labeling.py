@@ -4,7 +4,7 @@ import json
 from PIL import Image
 
 class Labeler:
-    def __init__(self, supplier="prodemge", base_dir="./../data"):
+    def __init__(self, supplier="prodemge", base_dir="./data"):
         self.supplier = supplier
         self.base_dir = Path(base_dir)
 

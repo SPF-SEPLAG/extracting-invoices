@@ -3,7 +3,7 @@ from pdf2image import convert_from_path
 from paddleocr import PaddleOCR
 
 class OCRRunner:
-    def __init__(self, supplier = "prodemge", base_dir = "./../data"):
+    def __init__(self, supplier = "prodemge", base_dir = "./data"):
         self.supplier = supplier
         self.base_dir = Path(base_dir)
 

@@ -4,7 +4,7 @@ from transformers import LayoutLMv3TokenizerFast
 import torch
 
 class Tokenizer:
-    def __init__(self, supplier = "prodemge", base_dir = "./../data"):
+    def __init__(self, supplier = "prodemge", base_dir = "./data"):
         self.supplier = supplier
         self.base_dir = Path(base_dir)
         self.output_labeled_folder = self.base_dir/"output"/supplier/"labeled"
