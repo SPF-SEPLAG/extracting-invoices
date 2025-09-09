@@ -13,7 +13,15 @@ tokenizer = Tokenizer()
 #ocr_runner.pipeline()
 #labeler.process_json_files()
 all_encodings = tokenizer.tokenize_labeled()
-print(all_encodings)
+
+## Debugging all_encodings
+#print(all_encodings)
+# print("\n--- Encodings summary ---")
+# for k, v in all_encodings.items():
+#     print(f"{k:15} shape={v.shape} dtype={v.dtype}")
+#     # Peek at the first row only (to confirm it looks sane)
+#     print(f"  first row (truncated): {v[0][:10]}\n")
+
 
 # dataset = TensorDataset(
 #     all_encodings["input_ids"],

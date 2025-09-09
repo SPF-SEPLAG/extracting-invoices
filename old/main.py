@@ -12,7 +12,7 @@ def pdfs_to_imgs():
     output_folder.mkdir(parents=True, exist_ok=True)
 
     for pdf_file in pdf_folder.glob("*.pdf"):
-        pages = convert_from_path(pdf_file)
+        pages = convert_from_path(pdf_file) 
         for i, page in enumerate(pages):
             page.save(f"{output_folder}/{pdf_file.stem}_page_{i+1}.png")
 
