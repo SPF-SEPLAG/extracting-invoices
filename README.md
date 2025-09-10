@@ -6,6 +6,7 @@ https://huggingface.co/docs/transformers/model_doc/layoutlmv3
 
 ## Reread from
 - ok. done the oop structure , what should be the next step after tokenizing , again? (control f this topic)
+- trying to understand dataset and dataloader
 - reviewing code. stopped at torch.stack loop. can you help me? v
-- implement run.py (todo)
-- adjust data path 
+- implement run.py v
+- adjust data path v
